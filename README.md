@@ -172,7 +172,7 @@ mvn package
 
 ### Execução
 ```bash
-java -jar target/viagens-api-1.0.0.jar
+mvn spring-boot:run
 ```
 
 A aplicação será iniciada na porta **8080**.
