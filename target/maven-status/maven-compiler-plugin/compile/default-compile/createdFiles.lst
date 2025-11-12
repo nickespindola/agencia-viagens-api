@@ -1,0 +1,5 @@
+com/agencia/viagens/ViagensApiApplication.class
+com/agencia/viagens/controller/DestinoController.class
+com/agencia/viagens/model/AvaliacaoRequest.class
+com/agencia/viagens/model/Destino.class
+com/agencia/viagens/service/DestinoService.class
