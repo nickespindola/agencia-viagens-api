@@ -259,7 +259,7 @@ Remove um destino do sistema.
 
 1. **Subir o PostgreSQL via Docker Compose:**
 ```bash
-docker-compose up -d
+docker compose up -d
 ```
 
 2. **Verificar se está rodando:**
@@ -269,7 +269,7 @@ docker ps
 
 3. **Ver logs do PostgreSQL (opcional):**
 ```bash
-docker-compose logs -f postgres
+docker compose logs -f postgres
 ```
 
 ### Passo 2: Conectar no DBeaver (Opcional)
