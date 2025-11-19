@@ -1,5 +1,14 @@
+/Users/nicolasespindola/Downloads/agencia-viagens-api/src/main/java/com/agencia/viagens/repository/UsuarioRepository.java
+/Users/nicolasespindola/Downloads/agencia-viagens-api/src/main/java/com/agencia/viagens/model/AvaliacaoRequest.java
+/Users/nicolasespindola/Downloads/agencia-viagens-api/src/main/java/com/agencia/viagens/repository/DestinoRepository.java
+/Users/nicolasespindola/Downloads/agencia-viagens-api/src/main/java/com/agencia/viagens/controller/UsuarioController.java
+/Users/nicolasespindola/Downloads/agencia-viagens-api/src/main/java/com/agencia/viagens/service/UsuarioService.java
+/Users/nicolasespindola/Downloads/agencia-viagens-api/src/main/java/com/agencia/viagens/security/CustomUserDetailsService.java
 /Users/nicolasespindola/Downloads/agencia-viagens-api/src/main/java/com/agencia/viagens/model/Destino.java
 /Users/nicolasespindola/Downloads/agencia-viagens-api/src/main/java/com/agencia/viagens/controller/DestinoController.java
 /Users/nicolasespindola/Downloads/agencia-viagens-api/src/main/java/com/agencia/viagens/ViagensApiApplication.java
-/Users/nicolasespindola/Downloads/agencia-viagens-api/src/main/java/com/agencia/viagens/model/AvaliacaoRequest.java
+/Users/nicolasespindola/Downloads/agencia-viagens-api/src/main/java/com/agencia/viagens/controller/HomeController.java
+/Users/nicolasespindola/Downloads/agencia-viagens-api/src/main/java/com/agencia/viagens/config/DataInitializer.java
+/Users/nicolasespindola/Downloads/agencia-viagens-api/src/main/java/com/agencia/viagens/model/Usuario.java
 /Users/nicolasespindola/Downloads/agencia-viagens-api/src/main/java/com/agencia/viagens/service/DestinoService.java
+/Users/nicolasespindola/Downloads/agencia-viagens-api/src/main/java/com/agencia/viagens/security/SecurityConfig.java
